@@ -49,7 +49,7 @@ def iniciarNavegador(context):
 def asignar(context):
     try:
         context.driver.maximize_window()
-        context.driver.get("C:\\Users\\erick\\Desktop\\ESPE\\QUINTO SEMESTRE\\REQUISITOS\\PRUEBAS-RF\\Chofer\\Chofer.html")
+        context.driver.get("C:\\Users\\erick\\Desktop\\ESPE\\QUINTO SEMESTRE\\REQUISITOS\\PRUEBAS-RF\\CU6\\Chofer\\ActualizarChofer.html")
         take_screenshot(context, '1. Entra a la seccion actualizar chofer')
         print("Entered 'Chofer' section")
     except Exception as e:

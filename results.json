@@ -1,10 +1,10 @@
 [
   {
-    "uri": "Feature/actualizar.feature",
-    "id": "actualizar-veh\u00edculo",
+    "uri": "Feature/ActualizarChofer.feature",
+    "id": "actualizar-chofer",
     "line": 1,
     "keyword": "Feature",
-    "name": "Actualizar veh\u00edculo",
+    "name": "Actualizar chofer",
     "description": "",
     "elements": [
       {
@@ -22,7 +22,7 @@
             "name": "Se inicia el navegador actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.275881767272949
+              "duration": 2.5965137481689453
             }
           },
           {
@@ -32,17 +32,17 @@
             "name": "Entra a la seccion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.34399938583374023
+              "duration": 0.7662930488586426
             }
           },
           {
             "arguments": [],
             "keyword": "And",
             "line": 6,
-            "name": "Aplasta el bot\u00f3n editar",
+            "name": "Aplasta el icono de editar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.17200064659118652
+              "duration": 0.357771635055542
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "Actualizar en chofer el campo Nombre Erick",
             "result": {
               "status": "passed",
-              "duration": 0.28400158882141113
+              "duration": 0.3970346450805664
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "Actualizar en chofer el campo Apellido Lasluisa",
             "result": {
               "status": "passed",
-              "duration": 0.22900128364562988
+              "duration": 0.36568140983581543
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "Actualizar en chofer el campo Numero 0992916611",
             "result": {
               "status": "passed",
-              "duration": 0.2299971580505371
+              "duration": 0.3795585632324219
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "Seleccionar en chofer el tipo de licencia C",
             "result": {
               "status": "passed",
-              "duration": 0.18399858474731445
+              "duration": 0.3292083740234375
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "Seleccionar en chofer el tipo de sangre A+",
             "result": {
               "status": "passed",
-              "duration": 0.19100093841552734
+              "duration": 0.34494900703430176
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "Aplastar el boton para editar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.170804738998413
+              "duration": 2.3259644508361816
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "Visualizar alerta confirmacion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 1.1319997310638428
+              "duration": 1.2612190246582031
             }
           }
         ]
@@ -132,7 +132,7 @@
             "name": "Se inicia el navegador actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 1.606611967086792
+              "duration": 2.3549551963806152
             }
           },
           {
@@ -142,17 +142,17 @@
             "name": "Entra a la seccion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.34438133239746094
+              "duration": 0.9165666103363037
             }
           },
           {
             "arguments": [],
             "keyword": "And",
             "line": 18,
-            "name": "Aplasta el bot\u00f3n editar",
+            "name": "Aplasta el icono de editar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.20700597763061523
+              "duration": 0.3364901542663574
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "Actualizar en chofer el campo Nombre 123",
             "result": {
               "status": "passed",
-              "duration": 0.26099705696105957
+              "duration": 0.41500282287597656
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Aplastar el boton para editar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.164759397506714
+              "duration": 2.365710496902466
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "Visualizar alerta confirmacion actualizar chofer",
             "result": {
               "status": "failed",
-              "duration": 5.07631778717041
+              "duration": 5.1420159339904785
             }
           }
         ]
@@ -202,7 +202,7 @@
             "name": "Se inicia el navegador actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 1.3624725341796875
+              "duration": 2.3134565353393555
             }
           },
           {
@@ -212,17 +212,17 @@
             "name": "Entra a la seccion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.6393921375274658
+              "duration": 0.9041428565979004
             }
           },
           {
             "arguments": [],
             "keyword": "And",
             "line": 26,
-            "name": "Aplasta el bot\u00f3n editar",
+            "name": "Aplasta el icono de editar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.17600679397583008
+              "duration": 0.3139808177947998
             }
           },
           {
@@ -232,7 +232,7 @@
             "name": "Actualizar en chofer el campo Apellido 123",
             "result": {
               "status": "passed",
-              "duration": 0.28499341011047363
+              "duration": 0.3712575435638428
             }
           },
           {
@@ -242,7 +242,7 @@
             "name": "Aplastar el boton para editar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.1912841796875
+              "duration": 2.361180305480957
             }
           },
           {
@@ -252,7 +252,7 @@
             "name": "Visualizar alerta confirmacion actualizar chofer",
             "result": {
               "status": "failed",
-              "duration": 5.079708576202393
+              "duration": 5.129962682723999
             }
           }
         ]
@@ -272,7 +272,7 @@
             "name": "Se inicia el navegador actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 1.3068842887878418
+              "duration": 2.346723794937134
             }
           },
           {
@@ -282,17 +282,17 @@
             "name": "Entra a la seccion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.35500049591064453
+              "duration": 0.5385682582855225
             }
           },
           {
             "arguments": [],
             "keyword": "And",
             "line": 34,
-            "name": "Aplasta el bot\u00f3n editar",
+            "name": "Aplasta el icono de editar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.1790022850036621
+              "duration": 0.36722397804260254
             }
           },
           {
@@ -302,7 +302,7 @@
             "name": "Actualizar en chofer el campo Numero cero",
             "result": {
               "status": "passed",
-              "duration": 0.2729957103729248
+              "duration": 0.39876723289489746
             }
           },
           {
@@ -312,7 +312,7 @@
             "name": "Aplastar el boton para editar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.2042174339294434
+              "duration": 2.4248337745666504
             }
           },
           {
@@ -322,7 +322,7 @@
             "name": "Visualizar alerta confirmacion actualizar chofer",
             "result": {
               "status": "failed",
-              "duration": 5.078521013259888
+              "duration": 5.127153158187866
             }
           }
         ]
@@ -342,7 +342,7 @@
             "name": "Se inicia el navegador actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 1.3306970596313477
+              "duration": 2.2747714519500732
             }
           },
           {
@@ -352,17 +352,17 @@
             "name": "Entra a la seccion actualizar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.3740811347961426
+              "duration": 0.6986243724822998
             }
           },
           {
             "arguments": [],
             "keyword": "And",
             "line": 42,
-            "name": "Aplasta el bot\u00f3n editar",
+            "name": "Aplasta el icono de editar chofer",
             "result": {
               "status": "passed",
-              "duration": 0.16900062561035156
+              "duration": 0.3535773754119873
             }
           },
           {
@@ -372,7 +372,7 @@
             "name": "Actualizar en chofer el campo Numero 1234567890",
             "result": {
               "status": "passed",
-              "duration": 0.2850008010864258
+              "duration": 0.3746671676635742
             }
           },
           {
@@ -382,7 +382,7 @@
             "name": "Aplastar el boton para editar chofer",
             "result": {
               "status": "passed",
-              "duration": 2.1826722621917725
+              "duration": 2.3568670749664307
             }
           },
           {
@@ -392,7 +392,7 @@
             "name": "Visualizar alerta confirmacion actualizar chofer",
             "result": {
               "status": "failed",
-              "duration": 5.079151391983032
+              "duration": 5.133515119552612
             }
           }
         ]
